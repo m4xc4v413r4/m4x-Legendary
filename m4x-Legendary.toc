@@ -1,4 +1,4 @@
-## Interface: 70100
+## Interface: 70200
 ## Title: m4x-Legendary
 ## Notes: Plays a sound when you loot a Legendary
 ## Author: m4xc4v413r4
